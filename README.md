@@ -1,11 +1,13 @@
 # flu_hosp
 Fitting and forecasting of daily influenza hospital admission data using a flexible time-dependent transmission term
 
-flu_hosp_forecast
+##########################################################
+
+MAIN CODE 
+
+flu_hosp_forecast.R
 
 S[I]2RH fitting and forecasting code - using daily hospitalization data 
-
-##########################################################
 
 COMPILING THE FORTRAN CODE
 
